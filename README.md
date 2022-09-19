@@ -1,4 +1,4 @@
-# Converter to text graphics
+# Converter to text graphics.
 
 This application converts jpg to character graphics.
 
